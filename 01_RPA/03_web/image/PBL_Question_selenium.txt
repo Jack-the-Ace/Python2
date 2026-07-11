@@ -1,0 +1,18 @@
+[수행과제] Selenium 을 이용하여 아래 업무를 자동으로 수행하는 프로그램을 작성하시오
+
+1. https://www.w3schools.com 접속 (URL 은 구글에서 w3schools 검색)
+2. 화면 중간 LEARN HTML 클릭
+3. 상단 메뉴 중 HOW TO 클릭
+4. 좌측 메뉴 중 Contact Form 메뉴 클릭
+5. 입력란에 아래 값 입력
+   
+   First Name : 홍
+   Last Name : 길동
+   Country : USA
+   Subject : 자동화 수행 완료!
+   ※ 위 값들은 변수로 미리 저장해두세요
+   
+6. 3초 대기 후 Submit 버튼 클릭
+7. 3초 대기 후 브라우저 종료
+
+(공통)모든 작업 사이 1초씩 대기

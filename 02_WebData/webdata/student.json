@@ -1,0 +1,9 @@
+{
+    "data_title":"student info",
+    "total_count":3,
+    "data":[
+        {"name":"sam", "age":20, "major":"AI", "address":"seoul"},
+        {"name":"robin", "age":25, "major":"Data Science", "address":"incheon"},
+        {"name":"hong", "age":23, "major":"web development", "address":"busan"}
+    ]
+}
