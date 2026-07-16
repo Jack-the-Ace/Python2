@@ -14,6 +14,7 @@ from google import genai
 
 # 4. LLM 사용을 요청하는 객체 생성
 client=genai.Client(api_key='키입력하기')
+# .env 파일에 환경변수로 key를 저장할때 변수명 : GEMINI_API_KEY
 
 #8. 모델이 응답할때 참고(사용)할 도구 중 함수..
 #1) 대한민국 대통령의 정보를 리턴해주는 함수 (ai model이 답변을 할때 사용할 함수를 결정할때 doc string을 참고)
