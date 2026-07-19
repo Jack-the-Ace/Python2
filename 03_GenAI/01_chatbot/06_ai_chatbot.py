@@ -86,7 +86,7 @@ if question:
 # Streamlit Community Cloud 배포
 #1) 프로젝트 GitHub에 업로드
 #2) Streamlit Cloud 접속 및 (GitHub계정) 로그인
-#3) [New app] 버튼을 클릭 후 GitHub wjwkdthfmf tjsxor
+#3) [New app] 버튼을 클릭 후 GitHub 저장소를 선택!
 #4) 그러면 자동으로 배포됨 (도메인 일부 수정 가능)
 
 
