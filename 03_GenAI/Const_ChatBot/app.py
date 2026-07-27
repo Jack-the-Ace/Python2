@@ -14,7 +14,7 @@ st.set_page_config(page_title="건설기술진흥법 AI 상담원", page_icon="�
 st.title("🏗️ 건설기술진흥법 전문 AI Agent")
 
 st.sidebar.header("⚙️ 모델 설정")
-temperature = st.sidebar.slider("Temperature", 0.0, 1.0, 0.1, 0.1)
+temperature = st.sidebar.slider("Temperature", 0.0, 2.0, 0.1, 0.1)
 max_tokens = st.sidebar.number_input("Max Tokens", min_value=100, max_value=2000, value=500)
 
 @st.cache_resource
